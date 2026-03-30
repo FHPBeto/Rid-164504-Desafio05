@@ -231,4 +231,4 @@ Encontrou um problema? Abra uma [issue](https://github.com/FHPBeto/Rid-164504-De
 
 ---
 
-**Desenvolvido com ❤️ como parte do Desafio 05**
+**Desenvolvido como parte do Desafio 05**
